@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I love Formula 1, Team Scuderia Ferrari**
 
-💼 Team: @GameCrewStudio
+💼 Team: @GameCrewStudio </br>
 💼 Work: 
 
 <h3 align="left">Languages and Tools:</h3>
