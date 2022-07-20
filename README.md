@@ -6,6 +6,7 @@
 - 📫 How to reach me **bawer.tomasz@outlook.com**
 
 💼 Team: 
+
 💼 Work: 
 
 <h3 align="left">Languages and Tools:</h3>
