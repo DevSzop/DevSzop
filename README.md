@@ -5,9 +5,7 @@
 
 - 📫 How to reach me **bawer.tomasz@outlook.com**
 
-- ⚡ Fun fact **I love Formula 1, Team Scuderia Ferrari**
-
-💼 Team: @GameCrewStudio </br>
+💼 Team: 
 💼 Work: 
 
 <h3 align="left">Languages and Tools:</h3>
