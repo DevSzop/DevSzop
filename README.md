@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tomek Bawer</h1>
 <h3 align="center">A passionate backend developer from Poland</h3>
 
-- 🌱 I’m currently learning **Rust, C#, C, C++, Java**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **bawer.tomasz@outlook.com**
 
