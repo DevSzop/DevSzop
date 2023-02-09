@@ -6,7 +6,7 @@
 ### <div align="center">I'm Tomasz Bawer, a full-time back-end developer 👨‍💻 working with code since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on my own UHC mode with magic  
+- 🔭 I’m currently working on ... 
   
 
 - 🌱 I’m currently learning Swift  
