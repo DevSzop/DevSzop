@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Tomasz Bawer, a full-time back-end developer 👨‍💻 working with code since 2020 🚀</div>  
+### <div align="center">I'm Tomasz Bawer, a full-time Backend Developer 👨‍💻 working with code since 2020 🚀</div>  
   
 
 - 🔭 I’m currently working on ... 
