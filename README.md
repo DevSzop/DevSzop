@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fhello-world-gif-18564330&psig=AOvVaw2HIKnw5I84k3OSExjb95-X&ust=1676061222082000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIi389-kif0CFQAAAAAdAAAAABAJ" align="center" style="width: 100%" />
+<img src="https://imgur.com/a/EJC5K8V" align="center" style="width: 100%" />
 </div>  
   
 
@@ -89,8 +89,6 @@
 
 <br/>  
   
-
-<br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=5saw6ty4t6as80y8d5zpz6ryk&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" /></div>  
 
