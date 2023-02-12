@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on ... 
   
 
-- 🌱 I’m currently learning Swift  
+- 🌱 I’m currently learning
   
 
 - ⚡ Fun fact: My mouse doesn't like cheese  
