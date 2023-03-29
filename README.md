@@ -19,7 +19,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<div align="center"><table><tr><td valign="top" width="33%">
 
 
 
@@ -53,7 +53,7 @@
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td></tr></table></div>  
 
 <br/>  
 
