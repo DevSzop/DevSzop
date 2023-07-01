@@ -6,10 +6,10 @@
 ### <div align="center">I'm a Backend Developer 👨‍💻 working with code since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on ... 
+- 🔭 I’m currently working on: Application for smart home and arduino smart home
   
 
-- 🌱 I’m currently learning: Kotlin, Swift
+- 🌱 I’m currently learning:
   
 
 - ⚡ Fun fact: 
@@ -26,6 +26,7 @@
 ### Backend  
 <div align="center">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a> 
 </div>
 
 </td><td valign="top" width="33%">
