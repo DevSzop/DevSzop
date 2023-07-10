@@ -6,7 +6,7 @@
 ### <div align="center">I'm a Backend Developer 👨‍💻 working with code since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on: Application for smart home and arduino smart home
+- 🔭 I’m currently working on:
   
 
 - 🌱 I’m currently learning:
