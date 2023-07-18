@@ -35,7 +35,7 @@
 ### Systems:  
 <div align="center">  
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
- <a href="https://commons.wikimedia.org/wiki/File:Apple_logo_black.svg" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="iOS" width="40" height="40"/> </a>
+ <a href="https://commons.wikimedia.org/wiki/File:Apple_logo_black.svg" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="iOS" width="50" height="50"/> </a>
 </div>
 
 </td><td valign="top" width="33%">
