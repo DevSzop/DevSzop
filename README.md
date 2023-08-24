@@ -45,7 +45,7 @@
 <div align="center">
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="50" height="50" /></a>
 <a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a> 
-  <a href="https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=151255109963&campaign=20389338852&creative=666706086655&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p77324634991&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gclid=Cj0KCQjw3JanBhCPARIsAJpXTx58aFl8LS71oiMH9b0fiQk57pWfqefKjt4SeqSpVRVYGpX_cXFqNTwaAhcKEALw_wcB&gclsrc=aw.ds" target="_blank"><img style="margin: 10px" src="https://logowik.com/content/uploads/images/jira3124.jpg" alt="Jira" height="50" /></a>
+  <a href="https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=151255109963&campaign=20389338852&creative=666706086655&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p77324634991&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gclid=Cj0KCQjw3JanBhCPARIsAJpXTx58aFl8LS71oiMH9b0fiQk57pWfqefKjt4SeqSpVRVYGpX_cXFqNTwaAhcKEALw_wcB&gclsrc=aw.ds" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/J/jira-logo-C71F8C0324-seeklogo.com.png" alt="Jira" height="50" /></a>
 </div>
 
 </td></tr></table></div>  
