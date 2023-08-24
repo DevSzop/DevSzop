@@ -98,11 +98,6 @@
 <br/>  
   
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=5saw6ty4t6as80y8d5zpz6ryk&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" /></div>  
-
-</div>  
-  
-
 <br/>  
 
 
