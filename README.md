@@ -35,7 +35,7 @@
 
 ### Game Engines:  
 <div align="center">  
-<a> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="50" height="50"/> </a> <a> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" height="50"/> </a> <a> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="godot"  height="50"/> </a>
+<a> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="60" height="60"/> </a> <a> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" height="60"/> </a> <a> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="godot"  height="60"/> </a>
 </div>
 
 </td><td valign="top" width="33%">
