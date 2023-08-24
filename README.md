@@ -18,7 +18,7 @@
 <br/>  
 
 
-## My Skill Set  
+## My GameDev Skill Set  
 <div align="center" width="100%"><table><tr><td valign="top" width="33%">
 
 
@@ -41,7 +41,7 @@
 
 
 
-### GameDev Tools:
+### Tools:
 <div align="center">
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="50" height="50" /></a>
 </div>
