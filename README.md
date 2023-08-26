@@ -46,7 +46,8 @@
 <div align="center">
 <a><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="60" height="60" /></a>
 <a><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" width="72" height="60" /></a> 
-  <a><img style="margin: 15px" src="https://seeklogo.com/images/J/jira-logo-C71F8C0324-seeklogo.com.png" alt="Jira" height="60" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a><img style="margin: 15px" src="https://seeklogo.com/images/J/jira-logo-C71F8C0324-seeklogo.com.png" alt="Jira" height="60" /></a>
 </div>
 
 </td></tr></table></div>  
@@ -55,7 +56,7 @@
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DevDerpeusz&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DevDerpeusz&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 <br/>  
 
