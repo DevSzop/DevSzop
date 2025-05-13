@@ -16,7 +16,7 @@
 <!--Intro start-->
 <ul>
 <li>
-<p>🌱 I’m currently learning <strong>React,TailwindCSS,expressJS</strong></p>
+<p>🌱 I’m currently learning <strong>Java</strong></p>
 </li>
 <li>
 <p>📫 Feel free to reach me out <strong><a href="mailto:tomasz.bawer@outlook.com">tomasz.bawer@outlook.com</a></strong></p>
@@ -51,7 +51,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,cpp,css,discord,docker,github,html,idea,java,js,linux,mongodb,mysql,nodejs;perline=14">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,cpp,css,discord,docker,github,html,idea,java,linux,mongodb,mysql,nodejs;perline=14">
   </a>
 </p>
 <!-- Connect with me -->
